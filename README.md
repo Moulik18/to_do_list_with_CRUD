@@ -49,6 +49,7 @@ Follow these steps to get the project up and running on your local machine:
  ```bash
 npm start
 
+3. Run the application:
 4. Open your browser and go to http://localhost:3000 to view the app.
 
 Usage
