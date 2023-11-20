@@ -39,3 +39,18 @@ Follow these steps to get the project up and running on your local machine:
    git clone https://github.com/Moulik18/to_do_list_with_CRUD.git
 
 1. Install dependencies:
+   cd your-repository
+   npm install
+2. Run the application:
+npm start
+3. Open your browser and go to http://localhost:3000 to view the app.
+
+Usage
+Visit the web app and start managing your to-do list.
+
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License.
+Make sure to replace the placeholder URLs, usernames, and repository names with your actual information. Additionally, include a `LICENSE` file if you choose a license for your project.
