@@ -46,7 +46,7 @@ Follow these steps to get the project up and running on your local machine:
    npm install
 
 3. Run the application:
- ```bash
+ ``bash
 npm start
 
 3. Run the application:
