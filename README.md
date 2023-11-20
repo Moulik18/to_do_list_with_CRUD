@@ -38,12 +38,16 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    git clone https://github.com/Moulik18/to_do_list_with_CRUD.git
 
+## Installation
+
 1. Install dependencies:
+   ```bash
    cd your-repository
    npm install
-2. Run the application:
+
+3. Run the application:
 npm start
-3. Open your browser and go to http://localhost:3000 to view the app.
+4. Open your browser and go to http://localhost:3000 to view the app.
 
 Usage
 Visit the web app and start managing your to-do list.
